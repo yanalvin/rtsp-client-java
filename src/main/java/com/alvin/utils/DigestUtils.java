@@ -13,7 +13,7 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Random;
 
 /**
- * Created by yankefei on 2020/10/12.
+ * Created by alvin on 2020/10/12.
  */
 public class DigestUtils {
 

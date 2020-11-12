@@ -1,7 +1,7 @@
 package com.alvin.rtsp;
 
 /**
- * Created by yankefei on 2020/9/28.
+ * Created by alvin on 2020/9/28.
  */
 public class RtspInfo {
 
